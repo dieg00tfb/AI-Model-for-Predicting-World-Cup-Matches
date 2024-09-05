@@ -1,1 +1,1 @@
-# AI-Model-for-Predicting-World-Cup-Matches
+# AI Model for Predicting World Cup Matches
